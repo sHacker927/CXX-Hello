@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION "3.25.1")
 
-project("CXX Hello")
+project("CXX-Hello")
 
 add_executable("${PROJECT_NAME}" "main.cpp")  
 
